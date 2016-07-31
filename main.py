@@ -7,7 +7,6 @@ from kivy.lang import Builder
 #my own modules
 from tetris import *
 
-
 Builder.load_string("""
 <MainScreen>:
     name: 'main'
