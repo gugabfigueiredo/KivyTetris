@@ -6,8 +6,6 @@ from kivy.lang import Builder
 
 #my own modules
 from tetris import *
-adicionando linhas aleatoriamente
-para saber se está funcionando
 
 Builder.load_string("""
 <MainScreen>:
